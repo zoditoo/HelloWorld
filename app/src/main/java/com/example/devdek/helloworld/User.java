@@ -1,7 +1,7 @@
 package com.example.devdek.helloworld;
 
 /**
- * Created by onepunch on 3/18/2016.
+ * Created by zodi on 3/18/2016.
  */
 public class User {
     private String name;
